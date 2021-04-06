@@ -1,4 +1,4 @@
-   /*BGM,SE*/
+    /*BGM,SE*/
 import processing.sound.*;
 class Music{
   
