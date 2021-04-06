@@ -70,11 +70,6 @@ abstract class BulletHell{
         bulletList.remove(i);
       }
     }
-    //for(int i=0; i<laserList.size(); i++){
-    //  if(laserList.get(i).isOutOfScreen()){
-    //    laserList.remove(i);
-    //  }
-    //}
   }
   
   //**弾幕を全消去
